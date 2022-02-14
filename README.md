@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emil
 - 👀 I’m interested in HTML, Javascript, CSS, Python, C, C++, C#, OpenGL
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning Javascript and Python and Github
 
 
 <!---
